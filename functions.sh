@@ -2,7 +2,7 @@
 ### Simple Functions written in Shell ##
 #######   by Olga Gasparyan   ##########
 #######   October 22, 2020    ##########
-
+## Create as part of a Coursera class ##
 
 
 
